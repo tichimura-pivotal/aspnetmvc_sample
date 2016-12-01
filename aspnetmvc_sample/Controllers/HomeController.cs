@@ -15,7 +15,7 @@ namespace aspnetmvc_sample.Controllers
 			var isMono = Type.GetType("Mono.Runtime") != null;
 
 			ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
-			ViewData["Runtime"] = isMono ? "Mono" : ".NET";
+			ViewData["Runtime"] = isMono ? "Mono" : ".NET desu";
 
 			return View();
 		}
