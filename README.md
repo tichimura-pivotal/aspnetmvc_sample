@@ -1,2 +1,2 @@
 # aspnetmvc_sample
-This is ASP.NET MVC Sample for windows2012 stack with binary-buildpack.
+This is ASP.NET MVC Sample for windows2012 stack with binary-buildpack..
