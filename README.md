@@ -1,3 +1,3 @@
 # aspnetmvc_samples
-sample demo desu
+demo desu
 This is ASP.NET MVC Sample for windows2012 stack with binary-buildpack....
