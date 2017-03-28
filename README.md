@@ -1,3 +1,3 @@
 ### aspnetmvc_samples
-Change from Started to Finished, and Delivered.
+Finished -> Deliver -> Accept/Reject
 This is ASP.NET MVC Sample for windows2012 stack with binary-buildpack....
