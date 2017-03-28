@@ -1,3 +1,3 @@
 ### aspnetmvc_samples
-Edit something for demo 2
+Change from Started to Finished, and Delivered.
 This is ASP.NET MVC Sample for windows2012 stack with binary-buildpack....
