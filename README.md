@@ -1,2 +1,3 @@
 ### aspnetmvc_samples
+Test is passed
 This is ASP.NET MVC Sample for windows2012 stack with binary-buildpack....
